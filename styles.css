@@ -1,0 +1,42 @@
+
+    body{
+      background-color:#AEFEFF;
+    }
+    table{
+      background-color:lightgreen;
+    }
+    hr{
+      background-color:#AEFEFF;
+      border-style:dotted none none;
+      border-color: grey;
+      border-width: 8px;
+      width:10%;
+    }
+    table {
+  border-collapse:separate;
+  border:solid black 1px;
+  border-radius:6px;
+}
+h1{
+
+  color: brown;
+}
+h2{
+
+  color: red;
+}
+img:hover{
+border-radius: 30%;
+}
+.cat{
+  border-radius: 30%;
+}
+.cat:hover{
+  background-color: blue;
+  border-radius: 50%;
+}
+img{
+  height:200px;
+  width:200px;
+border-radius: 50%;
+}
